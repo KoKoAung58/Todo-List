@@ -1,8 +1,8 @@
-#Todo List App with CoreData Integration
+# Todo List App with CoreData Integration
 
 Developed a comprehensive todo list application showcasing proficiency in CoreData for seamless data persistence and real-time management of tasks across different categories. This project highlights my expertise in iOS development and efficient data handling practices.
 
-Key Contributions:
+## Key Contributions:
 
 CoreData Implementation: Utilized CoreData framework to manage and persist todo items, ensuring data integrity and synchronization across devices. Implemented entities, relationships, and attribute mappings to facilitate efficient data storage and retrieval.
 
@@ -12,10 +12,10 @@ Real-time Data Updates: Implemented mechanisms to handle real-time updates and c
 
 User Interface Design: Designed a user-friendly interface using UIKit, optimizing for usability and visual appeal. Implemented swipe gestures for easy task deletion and intuitive controls for task completion and categorization.
 
-Outcome:
+## Outcome:
 The Todo List App with CoreData Integration garnered positive user feedback for its robust functionality, data reliability, and intuitive task management capabilities. It demonstrated my ability to leverage CoreData effectively in iOS applications to enhance user productivity and organization.
 
-Technologies Used:
+## Technologies Used:
 
 Programming Language: Swift
 Persistence Framework: CoreData
